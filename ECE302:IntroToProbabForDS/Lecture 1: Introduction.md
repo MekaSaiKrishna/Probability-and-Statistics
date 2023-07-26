@@ -35,10 +35,9 @@ $$log(1+x) = x - x^2 + O(x^3)$$ (Obtained from Taylor approximation at x=0)
 
 This result will be used in "**_Central Limit Theorem_**"
 
-
-
 # 1.3 Integration
 * 1.3.1 Odd and Even functions
+  
 * 1.3.2 Fundamental Theorem of Calculus
   
 # 1.4 Linear Algebra 

@@ -2,7 +2,7 @@
 ### By Stanley H Chan, Purdue University
 
 ### Lecture Numbers and Titles
-- [ ] Lecture 0: Introduction []
+- [X] Lecture 0: Introduction [Date: **26th July, 2023**]
 - [ ] Lecture 1: Review: Series, Approximation []
 - [ ] Lecture 2: Integration, Linear Algebra, Combinatorics []
 - [ ] Lecture 3: Set Theory []

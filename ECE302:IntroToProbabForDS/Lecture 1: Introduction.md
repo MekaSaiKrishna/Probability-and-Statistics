@@ -17,7 +17,14 @@ Let 0 < p < 1, then it is obvious that $$\sum_{k=0}^{n} {}^{n}C_{k} p^k (1-p)^{n
 
 # 1.2 Approximations
 * 1.2.1 Taylor Approximations
+An engineering tool!
+
+Let $f: \mathbb{R} \rightarrow \mathbb{R}$ be a **continuous function** with **infinite** derivatives. Let $a \in \mathbb{R}$  be a fixed constant. The Taylor approximation of $f$ at x=a is 
+$$f(x) = f(a) + f'(a)(x-a) + \frac{f''(a)}{2!}(x-a)^2 + ...$$
+$$f(x)=\sum_{n=0}^{\infty}\frac{f^{(n)}(a)}{n!}(x-a)^n$$
+  
 * 1.2.2 Exponential Series
+  
 * 1.2.3 Logarithmic Approximation
 
 # 1.3 Integration

@@ -38,6 +38,12 @@ This result will be used in "**_Central Limit Theorem_**"
 # 1.3 Integration
 * 1.3.1 Odd and Even functions
   
+**Even Function:**
+$$f(-x) = f(x)$$
+
+**Odd Function:**
+$$f(-x) = -f(x)$$
+  
 * 1.3.2 Fundamental Theorem of Calculus
   
 # 1.4 Linear Algebra 

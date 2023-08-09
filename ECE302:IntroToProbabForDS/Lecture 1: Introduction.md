@@ -45,10 +45,61 @@ $$f(-x) = f(x)$$
 $$f(-x) = -f(x)$$
   
 * 1.3.2 Fundamental Theorem of Calculus
-  
+Let $f:[a,b] \rightarrow \mathbb{R}$ be a continuous function defined on a closed interval [a,b]. Then, $$f(x) = \frac{d}{dx}\int_{a}^{x} f(t) dt$$
+
+**Corollary:** Let $f:[a,b] \rightarrow \mathbb{R}$ be a continuous function defined on a closed interval [a,b]. Let $g: \mathbb{R} \rightarrow [a,b]$ be a continuously differentiable function. Then,
+$$\frac{d}{dx}\int_{a}^{g(x)}f(t) dt = g'(x).f(g(x))$$ For anyd $x \in [a,b]$
+
+>**Example**: Evaluate the integral  $$\frac{d}{dx} \int_{0}^{x-\mu} \frac{1}{\sqrt{2 \pi \sigma^2}} exp \bigg[-\frac{t^2}{2\sigma^2} \bigg]$$
+This result will be useful when discussing Gaussian random variable:
+>
+>**Answer**: $\frac{1}{\sqrt{2 \pi \sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$
+
+
 # 1.4 Linear Algebra 
 * 1.4.1 Inner Products
-* 1.4.2 Matrix Calculus
+  
+*Definition*: Let $\mathbf{x} = [x_{1},x_{2},x_{3},...,x_{N}]^T$ and $\mathbf{y} = [y_{1},y_{2},y_{3},...,y_{N}]^T$ be two vectors. The **inner product ($\mathbf{x^T y}$)** is 
+$$\mathbf{x^T y} = x_{1}y_{1} + x_{2}y_{2} + x_{3}y_{3} + ... + x_{N}y_{N}$$
+
+> Note: Important concept when we are trying to "*classify*"
 
 # 1.5 Combinatorics
+There are 50 students in a classroom. What is the probability that there is at least one pair of students having the same birthday?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

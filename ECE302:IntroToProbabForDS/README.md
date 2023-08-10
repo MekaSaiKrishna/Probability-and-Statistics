@@ -4,7 +4,7 @@
 ### Lecture Numbers and Titles
 - [X] Lecture 0: Introduction [Date: **26th July, 2023**]
 - [X] Lecture 1: Review: Series, Approximation [Date: **26th July, 2023**]
-- [ ] Lecture 2: Integration, Linear Algebra, Combinatorics []
+- [X] Lecture 2: Integration, Linear Algebra, Combinatorics [Date: **10th August, 2023**]
 - [ ] Lecture 3: Set Theory []
 - [ ] Lecture 4: Probability Space []
 - [ ] Lecture 5: Probability Axioms []

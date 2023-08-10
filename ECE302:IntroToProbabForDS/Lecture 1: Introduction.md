@@ -65,8 +65,9 @@ $$\mathbf{x^T y} = x_{1}y_{1} + x_{2}y_{2} + x_{3}y_{3} + ... + x_{N}y_{N}$$
 > Note: Important concept when we are trying to "*classify*"
 
 # 1.5 Combinatorics
-There are 50 students in a classroom. What is the probability that there is at least one pair of students having the same birthday?
-
+>There are 50 students in a classroom. What is the probability that there is at least one pair of students having the same birthday?
+>
+>Answer: $1 - \frac{364}{365} * \frac{363}{365} * \frac{362}{365} . . . * \frac{316}{365} = $
 
 
 

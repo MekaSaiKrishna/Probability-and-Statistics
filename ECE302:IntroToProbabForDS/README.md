@@ -7,7 +7,7 @@
 - [X] Lecture 2: Integration, Linear Algebra, Combinatorics [Date: **10th August, 2023**]
 - [X] Lecture 3: Set Theory [Date: **10th August, 2023**]
 - [X] Lecture 4: Probability Space [Date: **17th August, 2023**]
-- [ ] Lecture 5: Probability Axioms []
+- [X] Lecture 5: Probability Axioms [Date: **17th August, 2023**]
 - [ ] Lecture 6: Conditional Probability []
 - [ ] Lecture 7: Bayes Theorem []
 - [ ] Lecture 8: Total Probability []

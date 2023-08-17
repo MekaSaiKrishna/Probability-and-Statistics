@@ -151,7 +151,30 @@ A **probability law** is a function $\mathbb{P}$: $\mathscr{F} \rightarrow [0, 1
 > $\mathbb{P}(\Omega) = 1$
 
 
-### 2.2.4 Measure
+### 2.2.4 Measure (Optional)
+Probability = relative size of a set (w.r.t the sample space).
+
+> Example:
+>
+> Discrete numbers - counting
+>
+> 1D intervals - length
+>
+> 2D sets - area
+
+ Defining probability as $$\mathbb{P} = \frac{\text{Size of E}}{\text{Size of} \\ \Omega}$$
+
+ Therefore, an isolated point in an interval has ZERO probability, because it is a point and it isn't an interval.
+
+> Example 1: Let $\Omega$ = [0, 1]. Then the set {0.5} has measure ZERO.
+>
+> Example 2: Let $\Omega$ = {1,2,3,4,5,6}. Then the set {1} has a probability of 1/6.
+>
+> Example 3: For any intervals $\mathbb{P}[[a,b]] = \mathbb{P}[(a,b)]$ because the two end points have measure zero: $\mathbb{P}[\lbrace a \rbrace] = \mathbb{P}[\lbrace b \rbrace] = 0$ 
+
+ An event $A \in \mathbb{R}$ is said to hold **almost surely (a.s.)** if $$\mathbb{P}[A] = 1$$.
+ except for all measure-zero sets in $\mathbb{R}$
+
 
 ### 2.2.5 Probability Space
 

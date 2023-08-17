@@ -177,7 +177,7 @@ Probability = relative size of a set (w.r.t the sample space).
 
 
 ### 2.2.5 Probability Space
-
+ A probability space consists of a triplet: ($\Omega$, $\mathscr{F}$, $\mathbb{P}$)
 
 ___
 ## 2.3 Axioms of Probability

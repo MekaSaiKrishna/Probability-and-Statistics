@@ -99,6 +99,63 @@ There are four set operations:
 ___
 ## 2.2  Probability space
 
+> Example: The probability of getting a head when tossing a coin:
+> $$\mathbb{P}(H) = 1/2$$
+> Generally, our intuition is from a frequentist point of view. That is we arrive at a limiting number of occurence by conducting many many experiments. But in cases where we can't run an experiment infinitely many many times we can form a subjective opinion which is called the "Bayesian Approach"
+
+### 2.2.1 Sample Space
+A **sample space** $\Omega$ is the collection of all possible outcomes.
+
+We denote $\omega$ as an element in $\Omega$.
+
+> Example:
+> > Coin Flip:
+> > $\Omega$ = {'H', 'T'}
+>
+> > Throw a dice:
+> > $\Omega$ = {1,2,3,4,5,6}
+>
+> > Waiting time for a bus in West Lafayette:
+> > $\Omega$ = { t | 0 $\leq$ t $\leq$ 30}
+
+Elements in the space can be anything, it can be 'discrete numbers', 'continuous intervals', 'functions' etc
+
+### 2.2.2 Event Space
+An **event** $F$ is a subset in the sample space $\Omega$.
+
+> Example: Throw a dice. Let $\Omega$ = {1, 2, 3, 4, 5, 6}
+> 
+> $F_{1}$ = {even numbers} = {2, 4, 6}
+>
+> $F_{2}$ = {less than 3} = {1, 2}
+
+> Example: Wait for a bus. Let $\Omega$ = {0 $\leq$ t $\leq$ 30}
+> 
+>$F_{1}$ = {0 $\leq$ t $\lt$ 10}
+>
+>  $F_{2}$ = {0 $\leq$ t $\lt$ 5} $\cup$ {20 $\lt$ t $\leq$ 20}
+
+The collection of all events is called the **Event Space**, denoted as $\mathscr{F}$
+
+### 2.2.3 Probability Law
+A **probability law** is a function $\mathbb{P}$: $\mathscr{F} \rightarrow [0, 1]$ that maps an event A to a real number in [0, 1].
+
+> Example: Consider flipping a coin. The event space $\mathscr{F}$ = {$\emptyste$,{H},{T},$\Omega$}. Suggest a probability law that makes sense:
+>
+> $\mathbb{P}(\emptyset) = 0$
+>
+> $\mathbb{P}(\lbrace H \rbrace) = 1/3$
+>
+> $\mathbb{P}(\lbrace T \rbrace) = 2/3$
+>
+> $\mathbb{P}(\Omega) = 1$
+
+
+### 2.2.4 Measure
+
+### 2.2.5 Probability Space
+
+
 ___
 ## 2.3 Axioms of Probability
 

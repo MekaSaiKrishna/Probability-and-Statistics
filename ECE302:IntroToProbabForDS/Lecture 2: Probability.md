@@ -172,7 +172,7 @@ Probability = relative size of a set (w.r.t the sample space).
 >
 > Example 3: For any intervals $\mathbb{P}[[a,b]] = \mathbb{P}[(a,b)]$ because the two end points have measure zero: $\mathbb{P}[\lbrace a \rbrace] = \mathbb{P}[\lbrace b \rbrace] = 0$ 
 
- An event $A \in \mathbb{R}$ is said to hold **almost surely (a.s.)** if $$\mathbb{P}[A] = 1$$.
+ An event $A \in \mathbb{R}$ is said to hold **almost surely (a.s.)** if $$\mathbb{P}[A] = 1$$
  except for all measure-zero sets in $\mathbb{R}$
 
 

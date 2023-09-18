@@ -10,6 +10,8 @@
 
 **Office Hours**: [https://app.box.com/s/z1hm98zsekt0g98ig9im57rn7eeopbmz](https://app.box.com/s/z1hm98zsekt0g98ig9im57rn7eeopbmz)
 
+**Probab Course (Intro to data science for Mechanical engineers) Webpage**: [https://purduemechanicalengineering.github.io/me-297-intro-to-data-science/lecture03/intro.html#](https://purduemechanicalengineering.github.io/me-297-intro-to-data-science/lecture03/intro.html#)
+
 ___
 
 **Lectures 1 through 4 (inclusive):**
